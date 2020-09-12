@@ -1,14 +1,14 @@
 <?php
 namespace bang\random;
 
-/**
- * 随机生成类
+/**随机生成类
+ * Class Random
+ * @package bang\random
  */
 class Random {
 
 	/**
 	 * 生成数字和字母
-	 *
 	 * @param int $len 长度
 	 * @return string
 	 */
@@ -18,7 +18,6 @@ class Random {
 
 	/**
 	 * 仅生成字符
-	 *
 	 * @param int $len 长度
 	 * @return string
 	 */
@@ -28,7 +27,6 @@ class Random {
 
 	/**
 	 * 生成指定长度的随机数字
-	 *
 	 * @param int $len 长度
 	 * @return string
 	 */
@@ -38,7 +36,6 @@ class Random {
 
 	/**
 	 * 数字和字母组合的随机字符串
-	 *
 	 * @param int $len 长度
 	 * @return string
 	 */
