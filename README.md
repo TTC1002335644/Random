@@ -2,6 +2,9 @@
 生成随机数的插件
 
 ## 安装
+```php
+composer require bang/Random
+```
 
 
 ## 用法
