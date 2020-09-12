@@ -3,7 +3,7 @@
 
 ## 安装
 ```php
-composer require bang/Random
+composer require bang/random
 ```
 
 
