@@ -1,6 +1,5 @@
 <?php
-
-namespace fast;
+namespace bang\random;
 
 /**
  * 随机生成类
