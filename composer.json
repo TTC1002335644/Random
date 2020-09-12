@@ -1,0 +1,11 @@
+{
+    "name": "bang/random",
+    "description": "生成随机数的插件",
+    "authors": [
+        {
+            "name": "ttc",
+            "email": "1002335644@qq.com"
+        }
+    ],
+    "require": {}
+}
